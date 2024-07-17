@@ -1,0 +1,8 @@
+[package]
+name = "three_d_test"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+proc-macro2 = "1.0.86"
+three-d = "0.17.0"
